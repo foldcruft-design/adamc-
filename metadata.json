@@ -1,0 +1,6 @@
+{
+  "name": "Планировщик домашки",
+  "description": "Планировщик домашних заданий со стеклянным дизайном: дедлайны, приоритеты, статистика и напоминания.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
